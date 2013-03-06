@@ -8,7 +8,7 @@ Copyright (c) 2013 Naga Rohit S
 
 Validity of License
 ===================
-The code and software is released under the license agreement which ever is latest
+The code and software is bound the license agreement which ever is latest
 on the project code page @ https://github.com/snagarohit/rest irrespective of the current
 below specified License. That is, the below license will be automatically overwritten by the 
 latest license agreement as might be available on the project code page.
